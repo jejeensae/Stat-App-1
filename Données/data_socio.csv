@@ -1,0 +1,21 @@
+﻿Observatoire des territoires - ANCT; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; 
+Référentiel géographique : Régions (2016); ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; 
+Code;Libellé;Part des "artisans, commerçants, chefs d'entreprise" dans la population 2018;Part des "employés" dans la population 2018;Part des "ouvriers" dans la population 2018;Part des "retraités" dans la population 2018;Part des "agriculteurs exploitants" dans la population 2018;Part des "professions intermédiaires" dans la population 2018;Part des "autres sans activité professionnelle" dans la population 2018;Part des "autres sans activité professionnelle" dans la population 2018;Part des "cadres et professions intellectuelles supérieures" dans la population 2018;Médiane du revenu disponible par UC 2018;Population au dernier recensement 2018;Part des 15-29 ans 2018;Part des 30-44 ans 2018;Part des 45-59 ans 2018;Part des 60-74 ans 2018;Part des 75 ans et plus 2018;Taux de chômage des 15 ans et plus (RP) 2018
+01;Guadeloupe;4.9;18.7;10.4;23;0.8;12;25.3;26.5;4.8;N/A;387629;16.4;16.3;23.3;17.3;8.3;28.3
+02;Martinique;3.9;19;11.1;25.2;0.7;12.4;22.4;22.8;5.2;17880;368783;15.7;15.5;24.6;18.2;9.6;23
+03;Guyane;3.3;15.2;10.7;7;0.8;10.9;46.8;51.1;5.2;N/A;276128;23.4;20.5;14.5;6.8;1.9;34.2
+04;La Réunion;3.5;20.3;13.1;14.9;0.9;12.2;30.1;35.2;4.9;15440;855961;19.7;19.2;21.2;12.3;4.7;32.8
+06;Mayotte;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+11;Île-de-France;3.2;16.4;8.5;19.4;0.1;15.9;18.3;20.7;18.2;23860;12213447;20;21.2;19.4;13.2;6.8;12.1
+24;Centre-Val de Loire;3.2;16;13.9;31;1;13.8;14.1;16.2;7.1;21560;2572853;15.9;17.5;20.1;18.1;10.7;12.5
+27;Bourgogne-Franche-Comté;3.3;15.2;14.8;31.4;1.2;13.1;14.6;17.1;6.3;21480;2807807;16.2;17.3;20.1;18.6;10.9;12
+28;Normandie;3.2;16;14.4;30.1;1;13.4;15.5;17.6;6.4;21200;3327477;16.9;17.7;19.9;17.8;9.9;13.2
+32;Hauts-de-France;2.6;16.4;14.7;25.5;0.5;13.5;19.8;23.4;7;20110;6004108;18.5;18.8;19.5;15.9;7.9;16.3
+44;Grand Est;2.9;16.4;14.7;27.3;0.8;13.8;17;20.4;7.2;21610;5550389;17.5;18.3;20.6;17.1;9.3;13.3
+52;Pays de la Loire;3.3;15.3;14.8;29.4;1.2;14.2;13.9;15.6;7.8;21620;3781423;17;18.4;19.5;16.8;9.7;11.2
+53;Bretagne;3.5;15.1;13;31.2;1.3;13.7;14.7;16.2;7.6;21750;3335414;16.4;17.6;20.1;18.1;10.5;11.4
+75;Nouvelle-Aquitaine;4;15.9;12.1;31.9;1.3;13.1;14.7;16.7;7.1;21290;5979778;15.9;17.4;20.3;19;11.4;12.6
+76;Occitanie;4.3;15.7;10.2;29.3;1.2;13.6;17.3;20.1;8.4;20740;5885496;16.8;17.7;20;18.1;10.7;14.5
+84;Auvergne-Rhône-Alpes;3.9;15.6;12.4;27;0.8;15.2;15.7;18.3;9.4;22480;7994459;17.6;18.8;19.8;16.2;9.4;11.4
+93;Provence-Alpes-Côte d'Azur;4.4;16.4;9.7;28.9;0.4;13.6;18.3;21.5;8.3;21350;5052832;16.1;17.9;20.1;18;11.1;14
+94;Corse;5.7;18.6;10.4;27;0.9;11.8;20.3;26.3;5.3;20670;338554;14.9;19.1;20.7;18.5;11.2;11.7
